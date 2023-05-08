@@ -1,8 +1,10 @@
 # Setup
 
--- Download the code and unzip
--- run HitTheBall.bat
--- Hava fun, if HitTheBall.bat doesn't work go through the following instruction
+### Download the code and unzip
+
+### run HitTheBall.bat
+
+### Hava fun, if HitTheBall.bat doesn't work go through the following instruction
 
 ## 1. Windows
 
